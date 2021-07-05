@@ -12,7 +12,8 @@ html{
 .main {
     background: #f1f1f1;
     min-height: 100vh;
-    
+    display: block;
+    margin-left: 46px;
   }
 .menu{
     margin: 0px;
@@ -46,16 +47,16 @@ html{
     color:#7CBA34;
 }
 .content{
-    width:  1170px;
-    height: 1704px;
+    width:  1158px;
+    height: 744px;
     margin-left:136px ;
     border-radius: 0px 0px 10px 10px;
     background: #FFFFFF;
 }
 .form{
     display:block;
-    width: 1170px;
-    height: 1704px;
+    width: 1109px;
+    height: 744px;
     margin-left: 51px;
     
     background: #FFFFFF;
@@ -146,7 +147,7 @@ input[type=text]:disabled {
 
 }
 button{
-    margin-left: 950px;
+    margin-left: 900px;
     margin-top: 44px;
     background: #7CBA34;
     border-radius: 5px;
